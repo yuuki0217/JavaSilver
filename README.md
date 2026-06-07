@@ -1,0 +1,2 @@
+# JavaSilver_Udemy
+JavaSilver11の試験を受けるために、UdemyでコーディングやJavaの基礎理解を深める
